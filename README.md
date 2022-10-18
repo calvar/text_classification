@@ -1,0 +1,1 @@
+In this excercise we pre-process text data and train a simple naive Bayes model to classify text extracted from books in one of the following areas of knowledge: Computer science, history, math, accounting, biology, geography or physics. The data can be found at https://www.kaggle.com/datasets/deepak711/4-subject-data-text-classification .  
